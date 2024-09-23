@@ -9,6 +9,9 @@ This is the main controller
 
 In our controller, you can find all the FreeRTOS related code in `Core/Src/freertos.c`.
 
+## Custom library
+
+A Location for custom libraries.
 
 ## Integrated Development Environment (IDE)
 
